@@ -110,9 +110,3 @@ sudo apt-get remove --purge docker-ce docker-ce-cli containerd.io
 
 MIT — Feel free to use and modify.
 
-```
-
----
-
-Let me know if you'd like to add automatic firewall rule configuration (for example, using `ufw` or AWS CLI), but typically in EC2/Lightsail, this is managed from the web console or security groups.
-```
