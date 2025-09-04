@@ -1,8 +1,4 @@
-Absolutely — here's the updated `README.md` with a **new "🔓 Firewall Ports" section** added to inform users about opening the required ports for WireGuard and the WG-Easy web UI.
 
----
-
-````markdown
 # 🚀 WG-Easy Auto-Installer for AWS EC2 & Lightsail
 
 This repo provides a simple installation script to set up [WG-Easy](https://github.com/WeeJeWel/wg-easy) on Ubuntu-based **Amazon EC2 or Lightsail instances** using Docker.
